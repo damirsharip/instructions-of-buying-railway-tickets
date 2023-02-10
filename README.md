@@ -1,2 +1,2 @@
 # wcs
-this is for technical writing 230
+this is for technical writing 210
