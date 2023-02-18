@@ -1,7 +1,8 @@
-# wcs
-this is for technical writing 210
-
-
-**is this a bold?**
-
-or #is thihs a header?#
+![damir](https://drive.google.com/file/d/1D7rCwbM7N3j0t33Yub_nd8t-ABk3-7zm/view?usp=sharing)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
