@@ -49,7 +49,7 @@ After successful registration, click “Back to the originating page”.
 
 8. Enter your personal information, and select the document type that you have. Any passport from any country is acceptable. If you don’t have IIN, click "IIN is not required". If you are purchasing seats for more than one passenger, select “Add another passenger” and enter their personal information as well.  
 
-Payment  
+## Payment  
 9. Read and agree to the terms and conditions by clicking “To confirm set”, and click “Buy”.  
 
 10. Select your preferred payment type and proceed with the payment. 
