@@ -1,4 +1,4 @@
-![damir](https://drive.google.com/file/d/1D7rCwbM7N3j0t33Yub_nd8t-ABk3-7zm/view?usp=sharing)
+![damir](https://imgur.com/a/gze1s9i)
 ![]()
 ![]()
 ![]()
