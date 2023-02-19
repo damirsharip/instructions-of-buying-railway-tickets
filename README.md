@@ -33,7 +33,6 @@ Registration
 
 After successful registration, click “Back to the originating page”.  
 
-## Purchasing ticket(-s)  
 3. In the Purchase section, select departure station (From), destination station (To), and the date of departure. You may also select the return date. Enter your choices by typing or selecting from the given options. Then, click the “Search” button.
 (Note: Selecting car type and time period is optional. If you don’t specify these options, the system will display all available trains for your selected departure date.)  
 
@@ -42,14 +41,11 @@ After successful registration, click “Back to the originating page”.
 5. Select a car based on seat availability and your preferred car type, which is listed under the “Category” column.  
 6. Select an available seat, indicated by the blue color. You may select up to four seats at once. Click "Next."
 (Note: Upper seats are even-numbered, lower seats are odd-numbered.)  
-
-## Passenger data entering  
 7. Choose the options for "Preferred seats" and "In one compartment."
 (Note: Seat selection is by range, and specific seats are not guaranteed until payment is made. You’ll be assigned seat numbers after entering your card details.)  
 
 8. Enter your personal information, and select the document type that you have. Any passport from any country is acceptable. If you don’t have IIN, click "IIN is not required". If you are purchasing seats for more than one passenger, select “Add another passenger” and enter their personal information as well.  
-
-## Payment  
+  
 9. Read and agree to the terms and conditions by clicking “To confirm set”, and click “Buy”.  
 
 10. Select your preferred payment type and proceed with the payment. 
