@@ -34,8 +34,6 @@
  ![Registration](https://www.linkpicture.com/q/Registration.png)
 
  After successful registration, click “Back to the originating page”.
- 
- ![Back to the originating page](https://www.linkpicture.com/q/Activation_1.png)
 
 3. In the Purchase section, select departure station (From), destination station (To), and the date of departure. You may also select the return date. Enter your choices by typing or selecting from the given options. Then, click the “Search” button.
 
