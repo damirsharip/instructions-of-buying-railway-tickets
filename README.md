@@ -1,4 +1,4 @@
-#Information to know before getting started:#
+[#Information to know before getting started:#]
 
 1. Tickets selling starts 45 days prior to the date of departure
 2. If you are traveling west (time zone GMT +5), be aware that all departure and arrival times are given in Astana (GMT +6) time zone, EXCEPT FOR Petropavlovsk (works with Moscow (GMT +3) time zone.
