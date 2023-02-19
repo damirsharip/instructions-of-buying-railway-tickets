@@ -1,4 +1,4 @@
-[#Information to know before getting started:#]
+#Information to know before getting started:
 
 1. Tickets selling starts 45 days prior to the date of departure
 2. If you are traveling west (time zone GMT +5), be aware that all departure and arrival times are given in Astana (GMT +6) time zone, EXCEPT FOR Petropavlovsk (works with Moscow (GMT +3) time zone.
@@ -8,7 +8,7 @@
 6. No particular government identification document is required. Whatever valid passport or ID of another state that you have will work.
 7. You can not buy more than four tickets at once.
 
-[#]Some definitions:[#]  
+[#]Some definitions:
 Seat car - a car equipped with seats for passengers traveling in a sitting or semi-sitting position.  
 Coupe car - a car that has several separated suits with 4 recumbents - two on the lower level and two on the upper one.  
 Berth car - a car consisting of coupes of an open type and opposite to them recumbents on lower and upper levels.  
