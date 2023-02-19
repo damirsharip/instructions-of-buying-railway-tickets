@@ -5,7 +5,7 @@
 ## Information to know before getting started
 * Tickets selling starts 45 days prior to the date of departure. 
 * If you are traveling west (time zone GMT +5), be aware that all departure and arrival times are given in Astana (GMT +6) time zone, EXCEPT FOR Petropavlovsk (works with Moscow (GMT +3) time zone.
-* You need to have a valid Kazakhstan phone number (readily available for ANYONE for purchase in local telephone providers).
+* You need to have a valid Kazakhstan phone number. Phone numbers are readily available for ANYONE for purchase in local telephone providers.
 * You need a valid email address to register on the website and receive electronic tickets.
 * ANY valid card from ANY bank (Visa,  Mastercard, or Union Pay only) is acceptable as a payment method.
 * No particular government identification document is required. Whatever valid passport or ID of another state that you have will work.
@@ -33,7 +33,7 @@
  
 <p align="center"><img src="https://www.linkpicture.com/q/Registration.png" width="50%" height="50%"></p>
 
- After successful registration, click “Back to the originating page”.
+ After successful registration, click “Back to the originating page.”
 
 3. In the Purchase section, select departure station (From), destination station (To), and the date of departure. You may also select the return date. Enter your choices by typing or selecting from the given options. Then, click the “Search” button.
 
@@ -63,7 +63,7 @@
 
 <p align="center"><img src="https://www.linkpicture.com/q/Personal_information.png" width="70%" height="70%"></p>
 
-9. Read and agree to the terms and conditions by clicking “To confirm set”, and click “Buy”.
+9. Read and agree to the terms and conditions by clicking “To confirm set”, and click the “Buy” button.
 
 <p align="center"><img src="https://www.linkpicture.com/q/Terms_and_conditions.png" width="70%" height="70%"></p>
 
