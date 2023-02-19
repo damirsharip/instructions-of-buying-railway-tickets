@@ -47,7 +47,7 @@
 
 5. Select a car based on seat availability and your preferred car type, which is listed under the “Category” column.
 
-6. Select an available seat, indicated by the blue color. You may select up to four seats at once. Click "Next."
+6. Select an available seat, indicated by the blue color. You may select up to four seats at once. Click the "Next" button.
 
 <p align="center"><img src="https://www.linkpicture.com/q/Direct_trip.png" width="70%" height="70%"></p>
 
