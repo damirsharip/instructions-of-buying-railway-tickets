@@ -22,24 +22,9 @@ Soft car - a car of increased comfort, where there are 1 or 2-bedded recumbents 
 
 Steps:
 Registration
-Go to https://bilet.railways.kz/ and change to your preferred language. 
+1. Go to https://bilet.railways.kz/ and change to your preferred language. 
 (may be gif)
 
 
 
-
-
-
-
-
-
-
-
-[![image](https://www.linkpicture.com/q/Activation.png)](https://www.linkpicture.com/view.php?img=LPic63f1837fe9a121930249482)
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+[![image](https://www.linkpicture.com/q/Activation.png)](https://www.linkpicture.com/view.php?img=
