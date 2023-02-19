@@ -37,9 +37,9 @@
 
 3. In the Purchase section, select departure station (From), destination station (To), and the date of departure. You may also select the return date. Enter your choices by typing or selecting from the given options. Then, click the “Search” button.
 
-<p align="center"><img src="https://www.linkpicture.com/q/purchase.png" width="50%" height="50%"></p>
-
 **_Note_**: Selecting car type and time period is optional. If you don’t specify these options, the system will display all available trains for your selected departure date.
+
+<p align="center"><img src="https://www.linkpicture.com/q/purchase.png" width="50%" height="50%"></p>
 
 4. Select the train according to your preferred time, trip duration, and cost. If there is no direct trip, choose from the transfer options. Click the "Select train" button.
 
@@ -49,15 +49,15 @@
 
 6. Select an available seat, indicated by the blue color. You may select up to four seats at once. Click the "Next" button.
 
-<p align="center"><img src="https://www.linkpicture.com/q/Direct_trip.png" width="70%" height="70%"></p>
-
 **_Note_**: Upper seats are even-numbered, lower seats are odd-numbered.
+
+<p align="center"><img src="https://www.linkpicture.com/q/Direct_trip.png" width="70%" height="70%"></p>
 
 7. Choose the options for "Preferred seats" and "In one compartment."
 
-<p align="center"><img src="https://www.linkpicture.com/q/preferred-seat.png" width="70%" height="70%"></p>
+**_Note_**: Seat selection is by range, and specific seats are not guaranteed until payment is made. You’ll be assigned seat numbers after entering your card details.
 
-**_Note_**: Seat selection is by range, and specific seats are not guaranteed until payment is made. You’ll be assigned seat numbers after entering your card details.)
+<p align="center"><img src="https://www.linkpicture.com/q/preferred-seat.png" width="70%" height="70%"></p>
 
 8. Enter your personal information, and select the document type that you have. Any passport from any country is acceptable. If you don’t have IIN, click "IIN is not required". If you are purchasing seats for more than one passenger, enter their personal information as well.
 
