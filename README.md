@@ -8,7 +8,7 @@
 6. No particular government identification document is required. Whatever valid passport or ID of another state that you have will work.
 7. You can not buy more than four tickets at once.
 
-#Some definitions:#
+[#]Some definitions:[#]  
 Seat car - a car equipped with seats for passengers traveling in a sitting or semi-sitting position.  
 Coupe car - a car that has several separated suits with 4 recumbents - two on the lower level and two on the upper one.  
 Berth car - a car consisting of coupes of an open type and opposite to them recumbents on lower and upper levels.  
