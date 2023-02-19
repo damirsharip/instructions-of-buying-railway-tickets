@@ -22,61 +22,61 @@
 ## Instructions
 1. Go to [bilet.railways.kz](link) and change the language to English.
 
-![Language change](https://www.linkpicture.com/q/language_change.png)
+<p align="center"><img src="https://www.linkpicture.com/q/language_change.png" width="70%" height="70%"></p> 
 
 2. Sign in using your email and password.
 
-![Sign in](https://www.linkpicture.com/q/sign-in.png)  
-![Authorization](https://www.linkpicture.com/q/Authorization.png)
+<p align="center"><img src="https://www.linkpicture.com/q/sign-in.png" width="70%" height="70%"></p>     
+<p align="center"><img src="https://www.linkpicture.com/q/Authorization.png" width="50%" height="50%"></p> 
 
  If you haven't registered yet, create an account by clicking "Don't have an account yet?".
  
- ![Registration](https://www.linkpicture.com/q/Registration.png)
+<p align="center"><img src="https://www.linkpicture.com/q/Registration.png" width="50%" height="50%"></p>
 
  After successful registration, click “Back to the originating page”.
 
 3. In the Purchase section, select departure station (From), destination station (To), and the date of departure. You may also select the return date. Enter your choices by typing or selecting from the given options. Then, click the “Search” button.
 
-![Purchase](https://www.linkpicture.com/q/purchase.png)
+<p align="center"><img src="https://www.linkpicture.com/q/purchase.png" width="50%" height="50%"></p>
 
 **_Note_**: Selecting car type and time period is optional. If you don’t specify these options, the system will display all available trains for your selected departure date.
 
 4. Select the train according to your preferred time, trip duration, and cost. If there is no direct trip, choose from the transfer options. Click the "Select train" button.
 
-![Select train](https://www.linkpicture.com/q/list_of_trains.png)
+<p align="center"><img src="https://www.linkpicture.com/q/list_of_trains.png" width="70%" height="70%"></p>
 
 5. Select a car based on seat availability and your preferred car type, which is listed under the “Category” column.
 
 6. Select an available seat, indicated by the blue color. You may select up to four seats at once. Click "Next."
 
-![Select seat](https://www.linkpicture.com/q/Direct_trip.png)
+<p align="center"><img src="https://www.linkpicture.com/q/Direct_trip.png" width="70%" height="70%"></p>
 
 **_Note_**: Upper seats are even-numbered, lower seats are odd-numbered.
 
 7. Choose the options for "Preferred seats" and "In one compartment."
 
-![Preferred seats and In one compartment](https://www.linkpicture.com/q/preferred-seat.png)
+<p align="center"><img src="https://www.linkpicture.com/q/preferred-seat.png" width="70%" height="70%"></p>
 
 **_Note_**: Seat selection is by range, and specific seats are not guaranteed until payment is made. You’ll be assigned seat numbers after entering your card details.)
 
 8. Enter your personal information, and select the document type that you have. Any passport from any country is acceptable. If you don’t have IIN, click "IIN is not required". If you are purchasing seats for more than one passenger, enter their personal information as well.
 
-![Personal information](https://www.linkpicture.com/q/Personal_information.png)
+<p align="center"><img src="https://www.linkpicture.com/q/Personal_information.png" width="70%" height="70%"></p>
 
 9. Read and agree to the terms and conditions by clicking “To confirm set”, and click “Buy”.
 
-![Terms and conditions](https://www.linkpicture.com/q/Terms_and_conditions.png)
+<p align="center"><img src="https://www.linkpicture.com/q/Terms_and_conditions.png" width="70%" height="70%"></p>
 
 10. Select your preferred payment type and proceed with the payment.
 
-![Payment](https://www.linkpicture.com/q/payment2.png)
+<p align="center"><img src="https://www.linkpicture.com/q/payment2.png" width="50%" height="50%"></p>
 
 Payment via Kaspi.kz will proceed by using Kaspi QR.
 
 Payment via card will proceed as demonstrated below.
 
-![Payment via card](https://www.linkpicture.com/q/payment1.png)
+<p align="center"><img src="https://www.linkpicture.com/q/payment1.png" width="70%" height="70%"></p>
 
 11. After your payment is accepted, find your ticket(s) in your cabinet (**Account** > **Orders** > **PDF**) or in your email.
 
-![Ticket](https://www.linkpicture.com/q/account-orders.png)
+<p align="center"><img src="https://www.linkpicture.com/q/account-orders.png" width="70%" height="70%"></p>
