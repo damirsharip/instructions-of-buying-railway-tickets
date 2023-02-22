@@ -1,3 +1,6 @@
+
+![image](https://user-images.githubusercontent.com/70068263/220714550-d567ac10-30db-425a-8055-e31d0d78c91b.gif)
+
 # Buying railway tickets online on [bilet.railways.kz](link)
 [link]:(https://bilet.railways.kz/?_locale=us)
 [Bilet.railways.kz](link) is the official website of Kazakhstan Temir Zholy JSC - the largest operator of the main railway network in Kazakhstan. Through this portal, you can purchase tickets for all railway routes passing through the territory of Kazakhstan at the most affordable price.
@@ -11,7 +14,7 @@
 * No particular government identification document is required. Whatever valid passport or ID of another state that you have will work.
 * You can not buy more than four tickets at once.
 
-## Car categories in Kazakhstan![image](https://user-images.githubusercontent.com/70068263/220714550-d567ac10-30db-425a-8055-e31d0d78c91b.gif)
+## Car categories in Kazakhstan
 
 * _Seat car_ - a car equipped with seats for passengers traveling in a sitting or semi-sitting position.  
 * _Coupe car_ - a car that has several separated suits with 4 recumbents - two on the lower level and two on the upper one.  
