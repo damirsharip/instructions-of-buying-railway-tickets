@@ -1,8 +1,3 @@
-![Alt text](damir.gif)
-![Alt text](damir2.gif)
-
-
-
 # Buying railway tickets online on [bilet.railways.kz](link)
 [link]:(https://bilet.railways.kz/?_locale=us)
 [Bilet.railways.kz](link) is the official website of Kazakhstan Temir Zholy JSC - the largest operator of the main railway network in Kazakhstan. Through this portal, you can purchase tickets for all railway routes passing through the territory of Kazakhstan at the most affordable price.
