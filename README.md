@@ -1,4 +1,6 @@
 ![Alt text](damir.gif)
+![Alt text](damir2.gif)
+
 
 
 # Buying railway tickets online on [bilet.railways.kz](link)
