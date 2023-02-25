@@ -1,14 +1,14 @@
 # Buying railway tickets online on [bilet.railways.kz](link)
 [link]:(https://bilet.railways.kz/?_locale=us)
-[Bilet.railways.kz](link) is the official website of Kazakhstan Temir Zholy JSC - the largest operator of the main railway network in Kazakhstan. Through this portal, you can purchase tickets for all railway routes passing through the territory of Kazakhstan at the most affordable price.
+[Bilet.railways.kz](link) is the official website of Kazakhstan Temir Zholy JSC - the largest railway network operator in Kazakhstan. Through this portal, you can purchase tickets for all railway routes in Kazakhstan at the most affordable prices.
 
-## Information to know before getting started
-* Tickets selling starts 45 days prior to the date of departure. 
-* If you are traveling west (time zone GMT +5), be aware that all departure and arrival times are given in Astana (GMT +6) time zone, EXCEPT FOR Petropavlovsk (works with Moscow (GMT +3) time zone.
-* You need to have a valid Kazakhstan phone number. Phone numbers are readily available for ANYONE for purchase in local telephone providers.
-* You need a valid email address to register on the website and receive electronic tickets.
-* ANY valid card from ANY bank (Visa,  Mastercard, or Union Pay only) is acceptable as a payment method.
-* No particular government identification document is required. Whatever valid passport or ID of another state that you have will work.
+## Before getting started
+* Ticket sales start 45 days prior to the date of departure. 
+* If you are traveling west (time zone GMT +5), be aware that all departure and arrival times are given in Astana (GMT +6) time zone, _except for_ Petropavlovsk (works with Moscow (GMT +3) time zone.
+* You need to have a valid Kazakhstan phone number (foreigners can purchase a local SIM card).
+* You need a valid email.
+* Any valid Visa, Mastercard, or Union Pay card is accepted.
+* Any valid government (local and international) ID.
 * You can not buy more than four tickets at once.
 
 ## Car categories in Kazakhstan
@@ -29,41 +29,41 @@
 <p align="center"><img src="https://www.linkpicture.com/q/sign-in.png" width="70%" height="70%"></p>     
 <p align="center"><img src="https://www.linkpicture.com/q/Authorization.png" width="50%" height="50%"></p> 
 
- If you haven't registered yet, create an account by clicking "Don't have an account yet?".
+ If you haven't registered yet, create an account by clicking **Don't have an account yet?**
  
 <p align="center"><img src="https://www.linkpicture.com/q/Registration.png" width="50%" height="50%"></p>
 
- After successful registration, click “Back to the originating page.”
+ After successful registration, click **Back to the originating page.**
 
-3. In the Purchase section, select departure station (From), destination station (To), and the date of departure. You may also select the return date. Enter your choices by typing or selecting from the given options. Then, click the “Search” button.
+3. In the purchase section, select departure station (From), destination station (To), and the date of departure. You may also select the return date. Enter your choices by typing or selecting from the given options. Then, click **Search.**
 
 **_Note_**: Selecting car type and time period is optional. If you don’t specify these options, the system will display all available trains for your selected departure date.
 
 <p align="center"><img src="https://www.linkpicture.com/q/purchase.png" width="50%" height="50%"></p>
 
-4. Select the train according to your preferred time, trip duration, and cost. If there is no direct trip, choose from the transfer options. Click the "Select train" button.
+4. Select the train according to your preferred time, trip duration, and cost. If there is no direct trip, choose from the transfer options. Click **Select train.**
 
 <p align="center"><img src="https://www.linkpicture.com/q/list_of_trains.png" width="70%" height="70%"></p>
 
-5. Select a car based on seat availability and your preferred car type, which is listed under the “Category” column.
+5. Select a car based on seat availability and your preferred car type, which is listed under the **Category** column.
 
-6. Select an available seat, indicated by the blue color. You may select up to four seats at once. Click the "Next" button.
+6. Select an available seat, indicated by the blue color. You may select up to four seats at once. Click **Next.**
 
 **_Note_**: Upper seats are even-numbered, lower seats are odd-numbered.
 
 <p align="center"><img src="https://www.linkpicture.com/q/Direct_trip.png" width="70%" height="70%"></p>
 
-7. Choose the options for "Preferred seats" and "In one compartment."
+7. Choose the options for **Preferred seats** and **In one compartment.**
 
 **_Note_**: Seat selection is by range, and specific seats are not guaranteed until payment is made. You’ll be assigned seat numbers after entering your card details.
 
 <p align="center"><img src="https://www.linkpicture.com/q/preferred-seat.png" width="70%" height="70%"></p>
 
-8. Enter your personal information, and select the document type that you have. Any passport from any country is acceptable. If you don’t have IIN, click "IIN is not required". If you are purchasing seats for more than one passenger, enter their personal information as well.
+8. Enter your personal information, and select the document type that you have. Any passport from any country is acceptable. If you don’t have IIN, click **IIN is not required.** If you are purchasing seats for more than one passenger, enter their personal information as well.
 
 <p align="center"><img src="https://www.linkpicture.com/q/Personal_information.png" width="70%" height="70%"></p>
 
-9. Read and agree to the terms and conditions by clicking “To confirm set”, and click the “Buy” button.
+9. Read and agree to the terms and conditions by clicking **To confirm set,** and then **Buy.**
 
 <p align="center"><img src="https://www.linkpicture.com/q/Terms_and_conditions.png" width="70%" height="70%"></p>
 
