@@ -1,6 +1,6 @@
 # Buying railway tickets online on [bilet.railways.kz](https://bilet.railways.kz/?_locale=us)
 
-[bilet.railways.kz](https://bilet.railways.kz/?_locale=us) is the official website of Kazakhstan Temir Zholy JSC - the largest railway network operator in Kazakhstan. Through this portal, you can purchase tickets for all railway routes in Kazakhstan at the most affordable prices.
+[Bilet.railways.kz](https://bilet.railways.kz/?_locale=us) is the official website of Kazakhstan Temir Zholy JSC - the largest railway network operator in Kazakhstan. Through this portal, you can purchase tickets for all railway routes in Kazakhstan at the most affordable prices.
 
 ## Before getting started
 * Ticket sales start 45 days prior to the date of departure. 
