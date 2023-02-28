@@ -20,32 +20,31 @@
 * _Soft car_ - a car of increased comfort, where there are 1 or 2-bedded recumbents in a coupe.  
 
 ## Instructions
-1. Go to [bilet.railways.kz](link) and change the language to English.
+1. Go to [bilet.railways.kz](https://bilet.railways.kz/?_locale=us) and change the language to English.
 
 <p align="center"><img src="https://www.linkpicture.com/q/language_1.png" width="70%" height="70%"></p> 
 
-2. Sign in using your email and password.
+2. **Sign in** using your email and password.
 
-<p align="center"><img src="https://www.linkpicture.com/q/sign-in_2.png" width="70%" height="70%"></p>     
-<p align="center"><img src="https://www.linkpicture.com/q/authorize_1.png" width="50%" height="50%"></p> 
+<p align="center"><img src="https://www.linkpicture.com/q/sign-in_2.png" width="70%" height="70%"></p>  
 
  If you haven't registered yet, create an account by clicking **Don't have an account yet?**
- 
-<p align="center"><img src="https://www.linkpicture.com/q/Registration_2.png" width="50%" height="50%"></p>
+
+<p align="center"><img src="https://www.linkpicture.com/q/authorize_1.png" width="50%" height="50%"></p> 
 
  After successful registration, click **Back to the originating page.**
  
-<p align="center"><img src="https://www.linkpicture.com/q/Activation_3.png" width="50%" height="50%"></p>
- 
- 
+<p align="center"><img src="https://www.linkpicture.com/q/Activation_3.png" width="70%" height="70%"></p>
 
-3. In the purchase section, select departure station (From), destination station (To), and the date of departure. You may also select the return date. Enter your choices by typing or selecting from the given options. Then, click **Search.**
+3. In the **Purchase** section, select departure station (**From**), destination station (**To**), and the date of departure (**Date departure**). You _may_ also select the return date. Enter your choices by typing or selecting from the given options. Then, click **Search.**
 
-**_Note_**: Selecting car type and time period is optional. If you don’t specify these options, the system will display all available trains for your selected departure date.
+**_Note_**: Selecting **Car type** and **Time** is _optional_. If you don’t specify these options, the system will display all available trains for your selected departure date.
 
 <p align="center"><img src="https://www.linkpicture.com/q/From-to_1.png" width="50%" height="50%"></p>
 
-4. Select the train according to your preferred time, trip duration, and cost. If there is no direct trip, choose from the transfer options. Click **Select train.**
+4. Select the train according to your preferred time, trip duration, and cost. Click **Select train.**  
+
+**_Note_**: If there is no direct trip, choose from the transfer options.
 
 <p align="center"><img src="https://www.linkpicture.com/q/direct-trip_1.png" width="70%" height="70%"></p>
 
@@ -63,9 +62,11 @@
 
 <p align="center"><img src="https://www.linkpicture.com/q/step7_1.png" width="70%" height="70%"></p>
 
-7. Enter your personal information, and select the document type that you have. Any passport from any country is acceptable. If you don’t have IIN, click **IIN is not required.** If you are purchasing seats for more than one passenger, enter their personal information as well.
+7. Enter your personal information. If you are purchasing seats for more than one passenger, enter their personal information as well. Fields with a red asterisk are _required_.  
 
-<p align="center"><img src="https://www.linkpicture.com/q/documendata_1.png" width="70%" height="70%"></p>
+**_Note_**: In **Document type** field, select the document type that you have. Any passport or identification document from any country is acceptable. In **Document** field, type the document number. If you don’t have IIN, click **IIN is not required.**  
+
+<p align="center"><img src="https://www.linkpicture.com/q/documendata_1.png" width="80%" height="80%"></p>
 
 8. Read and agree to the terms and conditions by clicking **To confirm set,** and then **Buy.**
 
@@ -75,13 +76,13 @@
 
 <p align="center"><img src="https://www.linkpicture.com/q/checkandpay_1.png" width="50%" height="50%"></p>
 
-Payment via Kaspi.kz will proceed by using Kaspi QR.
-
-Payment via card will proceed as demonstrated below.
+**_Note_**: **Payment via Kaspi.kz** will proceed by using Kaspi QR. **Payment via card** will proceed as demonstrated below.
 
 <p align="center"><img src="https://www.linkpicture.com/q/payment_11.png" width="70%" height="70%"></p>
 
-10. After your payment is accepted, repeat steps 1 and 2.
+10. After your payment is accepted, repeat steps 1 and 2.  
+
+**_Note_**: An error will appear if you return to KTZ website directry from the payment page. 
 
 11. Find your ticket(s) in your cabinet (**Account** > **Orders** > **PDF**) or in your email.
 
@@ -90,17 +91,23 @@ Payment via card will proceed as demonstrated below.
 <p align="center"><img src="https://www.linkpicture.com/q/downloadpdf_1.png" width="70%" height="70%"></p>
 
 ## Troubleshooting tips
-* If you want to return your ticket(s), find your ticket(s) in your cabinet (**Account** > **Orders**) and click **Return ticket.**
+### Returning tickets
+If you want to return your ticket(s), find your ticket(s) in your cabinet (**Account** > **Orders**) and click **Return ticket.**
 <p align="center"><img src="https://www.linkpicture.com/q/downloadpdf-m-копия.png" width="70%" height="70%"></p>  
 
-* If you want to change your seat(s):
-  * Check if your desired seat(s) are available: follow until step 6 of the instructions. 
-  * Then, return your previous ticket(s) and buy new ticket(s).
+### Changing seats
+If you want to change your seat(s):  
+* Check if your desired seat(s) are available: follow until step 6 of the instructions.
+* Then, return your previous ticket(s) and buy new ticket(s).
 
-* If you have any questions or problems, select **Help** on the home page of the website. 
+### FAQ
+If you have any questions or problems, select **Help** on the home page of the website. 
 <p align="center"><img src="https://www.linkpicture.com/q/help_1.jpg" width="70%" height="70%"></p>
 
-* If you could not find the answer for your problem, contact:
-  * For electronic ticket issues: +7 (717) 260-66-60
-  * For returning tickets: +7 (707) 270-36-64 (WhatsApp)
-  * Email: bilet@railways.kz
+### Customer service contacts
+If you could not find the answer to your problem, contact:
+* For electronic ticket issues: +7 (717) 260-66-60
+* For returning tickets: +7 (707) 270-36-64 (WhatsApp)
+* Call center: +7 (7172) 60-30-30, +7 (7172) 60-32-52
+* Hotline: +7 (800) 080-30-30
+* Email: bilet@railways.kz
