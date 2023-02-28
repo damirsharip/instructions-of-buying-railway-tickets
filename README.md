@@ -89,4 +89,18 @@ Payment via card will proceed as demonstrated below.
 
 <p align="center"><img src="https://www.linkpicture.com/q/downloadpdf_1.png" width="70%" height="70%"></p>
 
+## Troubleshooting tips
+* If you want to return your ticket(s), find your ticket(s) in your cabinet (**Account** > **Orders**) and click **Return ticket.**
+<p align="center"><img src="https://www.linkpicture.com/q/downloadpdf-m-копия.png" width="70%" height="70%"></p>  
 
+* If you want to change your seat(s):
+  * Check if your desired seat(s) are available: follow until step 6 of the instructions. 
+  * Then, return your previous ticket(s) and buy new ticket(s).
+
+* If you have any questions or problems, select **Help** on the home page of the website. 
+<p align="center"><img src="https://www.linkpicture.com/q/help_1.jpg" width="70%" height="70%"></p>
+
+* If you could not find the answer for your problem, contact:
+  * For electronic ticket issues: +7 (717) 260-66-60
+  * For returning tickets: +7 (707) 270-36-64 (WhatsApp)
+  * Email: bilet@railways.kz
