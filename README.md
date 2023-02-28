@@ -59,9 +59,7 @@
 
 <p align="center"><img src="https://www.linkpicture.com/q/seat_1.png" width="70%" height="70%"></p>
 
-7. Choose the options for **Preferred seats** and **In one compartment.**
-
-**_Note_**: Seat selection is by range, and specific seats are not guaranteed until payment is made. You’ll be assigned seat numbers after entering your card details.
+**_Note_**: If you are buying more than one ticket, your ticket selection is a range. Hence, you can choose the preferred seat type. You’ll be assigned seat numbers after entering your card details.
 
 <p align="center"><img src="https://www.linkpicture.com/q/step7_1.png" width="70%" height="70%"></p>
 
