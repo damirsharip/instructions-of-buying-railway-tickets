@@ -59,19 +59,19 @@
 
 <p align="center"><img src="https://www.linkpicture.com/q/seat_1.png" width="70%" height="70%"></p>
 
-**_Note_**: If you are buying more than one ticket, your ticket selection is a range. Hence, you can choose the preferred seat type. You’ll be assigned seat numbers after entering your card details.
+**_Note_**: Ticket selection is a range. If you purchase more than one ticket, you must indicate which seats you prefer, as specific seats are not guaranteed until payment has been made.
 
 <p align="center"><img src="https://www.linkpicture.com/q/step7_1.png" width="70%" height="70%"></p>
 
-8. Enter your personal information, and select the document type that you have. Any passport from any country is acceptable. If you don’t have IIN, click **IIN is not required.** If you are purchasing seats for more than one passenger, enter their personal information as well.
+7. Enter your personal information, and select the document type that you have. Any passport from any country is acceptable. If you don’t have IIN, click **IIN is not required.** If you are purchasing seats for more than one passenger, enter their personal information as well.
 
 <p align="center"><img src="https://www.linkpicture.com/q/documendata_1.png" width="70%" height="70%"></p>
 
-9. Read and agree to the terms and conditions by clicking **To confirm set,** and then **Buy.**
+8. Read and agree to the terms and conditions by clicking **To confirm set,** and then **Buy.**
 
 <p align="center"><img src="https://www.linkpicture.com/q/Terms_and_conditions_2.png" width="70%" height="70%"></p>
 
-10. Select your preferred payment type and proceed with the payment.
+9. Select your preferred payment type and proceed with the payment.
 
 <p align="center"><img src="https://www.linkpicture.com/q/checkandpay_1.png" width="50%" height="50%"></p>
 
@@ -81,7 +81,7 @@ Payment via card will proceed as demonstrated below.
 
 <p align="center"><img src="https://www.linkpicture.com/q/payment_11.png" width="70%" height="70%"></p>
 
-11. After your payment is accepted, find your ticket(s) in your cabinet (**Account** > **Orders** > **PDF**) or in your email.
+10. After your payment is accepted, find your ticket(s) in your cabinet (**Account** > **Orders** > **PDF**) or in your email.
 
 <p align="center"><img src="https://www.linkpicture.com/q/account-orders_2.png" width="70%" height="70%"></p>
 
