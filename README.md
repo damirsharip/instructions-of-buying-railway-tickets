@@ -81,7 +81,9 @@ Payment via card will proceed as demonstrated below.
 
 <p align="center"><img src="https://www.linkpicture.com/q/payment_11.png" width="70%" height="70%"></p>
 
-10. After your payment is accepted, find your ticket(s) in your cabinet (**Account** > **Orders** > **PDF**) or in your email.
+10. After your payment is accepted, repeat steps 1 and 2.
+
+11. Find your ticket(s) in your cabinet (**Account** > **Orders** > **PDF**) or in your email.
 
 <p align="center"><img src="https://www.linkpicture.com/q/account-orders_2.png" width="70%" height="70%"></p>
 
